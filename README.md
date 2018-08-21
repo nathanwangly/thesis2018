@@ -1,4 +1,4 @@
-# thesis2018
+# File Directory
 
 # Experiment 2 (Run 1) NEW.py 
     # script used for participants in the control condition
